@@ -1,8 +1,5 @@
 Evolving towards the future and Inspiration your business
 
-![github stats](https://github-readme-stats.vercel.app/api?username=tmdgroupid&show_icons=true)
-
-
 [![TmdGroupID GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgroupid)](https://github.com/tmdgroupid/github-readme-stats)
 
 
