@@ -1,6 +1,7 @@
 Evolving towards the future and Inspiration your business
 
 ![TmdGroupID GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgroupid&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgroupid)](https://github.com/tmdgroupid/github-readme-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
