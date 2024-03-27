@@ -3,7 +3,7 @@ Evolving towards the future and Inspiration your business
 ![github stats](https://github-readme-stats.vercel.app/api?username=tmdgroupid&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdgroupid&show_icons=true&title_color=0de7b1&text_color=e81176d9&border_color=6730f3e6&bg_color=000000f2&border_radius=20)](https://github.com/tmdgroupid)
+[![TmdGroupID GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgroupid)](https://github.com/tmdgroupid/github-readme-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
