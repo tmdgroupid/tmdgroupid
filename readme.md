@@ -41,7 +41,7 @@ Current Roles :
 
 Portfolios and Company Profile:
 - [Github Pin](https://www.github.com/tmdgroupid)
-- [Company Profile]([https://tmd-group-187de4154457.herokuapp.com/](https://tmdgroupid-df5f65cadb3c.herokuapp.com/))
+- [Company Profile](https://tmdgroupid-df5f65cadb3c.herokuapp.com/)
 
 
 
